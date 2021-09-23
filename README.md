@@ -27,6 +27,7 @@ We created get-AMPed as a tool to help user have easy access to their profiles a
 - User accounts with authentication, JWT Token
 - dynamic generation of content using React
 - User can visit other user's page without viewing edit buttons, aka they can modify their page only
+- Progressive Web Application - This is an installable PWA
 
 
 ## Technologies Used:
